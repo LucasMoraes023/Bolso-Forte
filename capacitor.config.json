@@ -1,5 +1,6 @@
 {
   "appId": "com.bolsoforte.app",
   "appName": "Bolso Forte",
-  "webDir": "www"
+  "webDir": "www",
+  "bundledWebRuntime": false
 }
